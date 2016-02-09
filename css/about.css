@@ -7,6 +7,11 @@ Body {
   margin-left:auto;
   margin-right:auto;
   margin-top:0px;
+<<<<<<< HEAD
+=======
+ background:url(http://www.wallcg.com/images/2012/11/black-and-white-seas-bridges-golden-gate-bridge-san-francisco-HD-Wallpapers.jpg)
+top , right no-repeat;
+>>>>>>> personalwebsite/master
 background-position:fixed;
 background-attachment:fixed;
 
@@ -23,11 +28,15 @@ top: 0;
 position: fixed;
 text-align: center
 }
+<<<<<<< HEAD
 .about{
 
     text-align: left;
 
 }
+=======
+
+>>>>>>> personalwebsite/master
 #wrap {
   background:white;
 min-Height:2000px;
@@ -125,7 +134,11 @@ margin-top:0px;
 
 a.tweet, a.facebook, a.google {
 text-decoration:none;
+<<<<<<< HEAD
 color:black;
+=======
+color:white;
+>>>>>>> personalwebsite/master
 font-size:90px;
 display:inline-block;
 margin-left:70px;
@@ -193,4 +206,8 @@ h2.socialh2 {
   font-family:'verdana';
   font-size:20px;
   margin-top:-10px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> personalwebsite/master
