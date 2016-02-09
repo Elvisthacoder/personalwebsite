@@ -7,8 +7,6 @@ Body {
   margin-left:auto;
   margin-right:auto;
   margin-top:0px;
- background:url(http://www.wallcg.com/images/2012/11/black-and-white-seas-bridges-golden-gate-bridge-san-francisco-HD-Wallpapers.jpg)
-top , right no-repeat; 
 background-position:fixed;
 background-attachment:fixed;
 
@@ -123,7 +121,7 @@ margin-top:0px;
 
 a.tweet, a.facebook, a.google {
 text-decoration:none;
-color:white;
+color:black;
 font-size:90px;
 display:inline-block;
 margin-left:70px;
